@@ -1,7 +1,7 @@
 # Bank Online
 
 <div align="center">
-  <img src="assets/images/Logo.png" alt="Bank Online logo" width="96" />
+  <img src="Banking_Mobile_App/assets/images/Logo.png" alt="Bank Online logo" width="96" />
 
   <h3>A modern Flutter banking app for secure cards, payments, transfers, and financial insights.</h3>
 
@@ -16,11 +16,11 @@
 ## Preview
 
 <p align="center">
-  <img src="docs/screenshots/bank-online-preview.png" alt="Bank Online app preview" width="100%" />
+  <img src="Banking_Mobile_App/docs/screenshots/bank-online-preview.png" alt="Bank Online app preview" width="100%" />
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/bank-online-showcase.png" alt="Bank Online screens showcase" width="100%" />
+  <img src="Banking_Mobile_App/docs/screenshots/bank-online-showcase.png" alt="Bank Online screens showcase" width="100%" />
 </p>
 
 Screenshots are mirrored from the live portfolio project assets:
@@ -123,7 +123,7 @@ The screenshots used in this README were sourced from the live portfolio assets 
 - Cloudinary showcase image
 - Appwrite project preview image
 
-They are stored locally under `docs/screenshots/` so the README remains stable even if external image URLs change.
+They are stored locally under `Banking_Mobile_App/docs/screenshots/` so the README remains stable even if external image URLs change.
 
 ## Author
 
