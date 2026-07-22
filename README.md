@@ -23,9 +23,6 @@
   <img src="Banking_Mobile_App/docs/screenshots/bank-online-showcase.png" alt="Bank Online screens showcase" width="100%" />
 </p>
 
-Screenshots are mirrored from the live portfolio project assets:
-[Portfolio Project](https://ahmedsalah-dev.vercel.app/project/1)
-
 ## Overview
 
 Bank Online is a cross-platform mobile banking experience built with Flutter. It brings together authentication, digital card management, transfers, service payments, QR flows, notifications, statistics, and user preferences in one polished app.
@@ -124,7 +121,3 @@ The screenshots used in this README were sourced from the live portfolio assets 
 - Appwrite project preview image
 
 They are stored locally under `Banking_Mobile_App/docs/screenshots/` so the README remains stable even if external image URLs change.
-
-## Author
-
-Built by **Ahmed Salah** as a Flutter banking application focused on clean UI, Firebase integration, and practical mobile banking workflows.
